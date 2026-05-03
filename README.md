@@ -3,7 +3,7 @@
 
 An AI-powered pipeline that fetches real-time data from multiple sources and transforms it into structured, engaging, and shareable content using Large Language Models.
 
----
+
 
 ## 🚀 Overview
 
@@ -15,7 +15,6 @@ This project combines **real-world data sources + AI generation** to create mean
 
 Instead of relying only on user input, the system pulls **live, relevant information** and enhances it using AI.
 
----
 
 ## 🔗 Data Sources
 
@@ -25,7 +24,7 @@ The system integrates multiple APIs to gather rich, contextual data:
 - 🌐 **SerpAPI** → Real-time search results & trending topics  
 - 🤖 **Kimi API (Moonshot AI)** → LLM for text generation  
 
----
+
 
 ## ⚙️ How It Works
 
@@ -40,7 +39,7 @@ Format Output (posts / insights / content)
 
 ```
 
----
+
 
 ## ✨ Key Features
 
@@ -48,14 +47,12 @@ Format Output (posts / insights / content)
 - Fetches information from multiple APIs  
 - Ensures relevance and real-time accuracy  
 
----
-
 ### 🧠 AI-Powered Processing
 - Summarizes complex content  
 - Extracts key insights  
 - Simplifies technical information  
 
----
+
 
 ### ✍️ Content Generation
 - Converts raw data into:
@@ -64,13 +61,11 @@ Format Output (posts / insights / content)
   - Educational summaries  
 - Supports multiple tones (professional, casual, viral)  
 
----
+
 
 ### ⚡ Fast & Scalable
 - Built for quick generation  
 - Supports multiple queries simultaneously  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -89,7 +84,7 @@ Format Output (posts / insights / content)
 ### Deployment
 - Vercel  
 
----
+
 
 ## 🧱 Architecture
 Frontend (User Input)
@@ -105,9 +100,6 @@ AI Processing Layer (Kimi / LLM)
 Output Formatter
 ↓
 Frontend Display
-
-
----
 
 ## 🎯 Use Cases
 
@@ -127,21 +119,15 @@ Frontend Display
 - [ ] Real-time trend detection  
 - [ ] Integration with learning platforms (Mindly)
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
 Feel free to fork, open issues, or submit pull requests.
 
----
-
 ## 📬 Contact
 
 For questions or collaboration:  
 📧 tejaswimahadev9@gmail.com 
-
----
 
 ## ⭐ Support
 
